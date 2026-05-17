@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ainyas Khokhar 👋
 
-<!--
-**Ainyas-Khokhar/Ainyas-Khokhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Backend Developer (FastAPI / Laravel)
+- AI & Machine Learning Enthusiast
+- Working on NeuroCognitive-Net
+- Passionate about medical AI, systems design, and psychology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- PHP
+
+### Backend
+- FastAPI
+- Laravel
+
+### Frontend
+- React
+- Tailwind CSS
+- Vite
+
+### Database
+- MongoDB
+- MySQL
+
+---
+
+## Current Project
+🧠 NeuroCognitive-Net  
+AI-based medical research system for neurocognitive analysis
+
+---
+
+## GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Ainyas-Khokhar&show_icons=true)
+
+---
+
+## Connect
+- GitHub: https://github.com/Ainyas-Khokhar
