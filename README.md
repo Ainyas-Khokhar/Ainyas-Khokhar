@@ -43,7 +43,7 @@ I am a **Fullstack Developer** specializing in building robust, scalable systems
 ---
 
 ## 🚀 Current Project
-### [NeuroCognitive-Net](https://github.com/Ainyas-Khokhar)
+### [NeuroCognitive-Net](https/Ainyas-Khokha://fyp-ncn.vercel.app)
 A specialized medical research system leveraging AI to perform advanced neurocognitive analysis, aiding in the early detection and classification of neurological conditions.
 
 ---
